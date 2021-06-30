@@ -1,4 +1,4 @@
-# 📚 Progetto ASF - Aspiranti Sviluppatori Fannulloni 
+# 📚 Progetto ASF - Aspiranti Sviluppatori Fannulloni
 ----------
 Il progetto ASF prevede la realizzazione di una app per la realtà aumentata in grado di riconoscere gli ingredienti per la preparazione di una ricetta.
 
