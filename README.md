@@ -1,4 +1,4 @@
 # ASF
-Aspiranti Studenti Fannulloni, Progetto di componenti interattivi
+Aspiranti Sviluppatori Fannulloni, Progetto di componenti interattivi
 
  **a-frame**
